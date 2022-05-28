@@ -2,4 +2,56 @@
     {"name":"CF195","title":"CF195(拖拉机头)","images":[{"img":"CF195.jpg","desc":""}]}
     ,{"name":"CF1105","title":"CF1105(拖拉机头)","images":[{"img":"CF1105.jpg","desc":""}]}
     ,{"name":"ZS1105","title":"ZS1105(拖拉机头)","images":[{"img":"ZS1105-1.jpg","desc":""},{"img":"ZS1105-2.jpg","desc":""}]}
+    ,{"name":"295C","title":"295C","images":[{"img":"295C.jpg","desc":""}]}
+    ,{"name":"2135","title":"2135(已淘汰机型)","images":[{"img":"2135.jpg","desc":"特点：1、一个缸两个喷嘴"}]}
+    ,{"name":"4135","title":"图为4135D、部分辅机选用","images":[{"img":"4135.jpg","desc":"特点：1、两个缸四个喷嘴"}]}
+    ,{"name":"G128Ca2","title":"G128Ca2(上海柴油机厂)","images":[{"img":"G128Ca2-1.jpg","desc":""},{"img":"G128Ca2-2.jpg","desc":""}]}
+    ,{"name":"G128Ca3","title":"G128Ca3(上海柴油机厂)","images":[{"img":"G128Ca3-1.jpg","desc":""},{"img":"G128Ca3-2.jpg","desc":""}]}
+    ,{"name":"6135","title":"6135部分小船及辅机选用","images":[{"img":"6135.jpg","desc":"1、三个缸六个喷嘴"}]}
+    ,{"name":"6135Ca","title":"6135Ca","images":[{"img":"6135Ca.jpg","desc":""}]}
+    ,{"name":"6135-G","title":"6135-G","images":[{"img":"6135-G.jpg","desc":""}]}
+    ,{"name":"J6135CZR","title":"J6135CZR","images":[{"img":"J6135CZR.jpg","desc":""}]}
+    ,{"name":"6135ACa","title":"6135ACa（新款）","images":[{"img":"6135ACa.jpg","desc":""}]}
+    ,{"name":"6145","title":"系列潍柴（WHM6145C190-1、WHM6145C238-1、WHM6145MC283-2、WHM6145MC288-1）类似老款6170","images":[{"img":"6145-1.jpg","desc":"WHM6145MC288-1为例："},{"img":"6145-2.jpg","desc":""}]}
+    ,{"name":"6160","title":"特点：1、六个缸六个喷嘴2、缸体形状规则，为长方体（6160、6160A-1、6160A-12、6160A-13G、6160A-17、N6160ZC、N6160ZC2、N6160ZC6A、N6160ZCA、R6160-6、R6160A-6、R6160Z04、R6160ZC、R6160ZC280-9、R6160ZC310-1、R6160ZC4、X6160ZC、X6160ZC-123、X6160ZC-123A、X6160ZC-17、X6160ZC-17BQ、X6160ZC-17Q、X6160ZC-Q、X6160ZC2、X6160ZCA-Q、X6160ZCB、ZC6160-3）"
+            ,"images":[{"img":"6160-1.jpg","desc":"6160：（无缸盖）"},{"img":"6160-2.jpg","desc":"6160：（有缸盖）"}
+                ,{"img":"6160-3.jpg","desc":"6160系列潍柴（WHM6160C250-1、WHM6160C275-1、WHM6160C300-1、WHM6160C300-2、WHM6160C350-1）类似老款6170WHM6160C300-2为例"}
+                ,{"img":"6160-4.jpg","desc":"6160：（无缸盖）"}]}
+    ,{"name":"6170","title":"6170系列特点：1、六个缸六个喷嘴2、缸体内形状不规则3、缸体四个角为螺柱4、缸盖形状不规则（X6170ZC-05、X6170ZC-05W、X6170ZC-05WA、X6170ZC-05WB、X6170ZC-05WE、X6170ZC-15、X6170ZC-15WB、X6170ZC-15WD、X6170ZC-1AB、X6170ZC-1AC、X6170ZC-3WB、X6170ZC-3WC、X6170ZC315-1、X6170ZC350、X6170ZC350ZB、X6170ZCA-1AB、Z61701Z1Cz-9、Z6170Z1CZ、Z6170Z1Cz-1、Z6170Z1Cz-6、Z6170ZCZ-4A、Z6170ZCZ-5A、Z6170ZLC-1、Z6170ZLC-2、Z6170ZLC-2A、Z6170ZLC-4、Z6170ZLC2-1、Z6170ZLC2-2、Z6170ZLCXZ-2、Z6170ZLCz、Z6170ZLCz-1、Z6170ZLCz-19、Z6170ZLCZ-2、Z6170ZLCZ-22A、Z6170ZLCZ-2A、Z6170ZLCz-3、Z6170ZLCz-4、Z6170ZlCz-5、Z6170ZLCz-6、Z6170ZLCZ-7、Z6170ZLCz-8、Z6170ZLCz-9）"
+         ,"images":[{"img":"6170-1.jpg","desc":"6170：（无缸盖）"}, {"img":"6170-2.jpg","desc":"6170：（有缸盖）"}]}
+    ,{"name":"6180","title":"6180系列潍柴（WHM6180C356-9、WHM6180C432-9、WHM6180C449-2）","images":[{"img":"6180-1.jpg","desc":"WHM6180C356-9为例：类似6200"},{"img":"6180-2.jpg","desc":""}]}
+    ,{"name":"6190","title":"6190系列特点：1、六个缸六个喷嘴2、缸体形状为有一个内凹角的长方体3、缸盖形状也为一个内凹角的长方体，与缸体配合4、内凹角的原因可能是为了避免与管路相碰（6190ZC、6190ZC2、6190ZLC、6190ZLC-1、6190ZLC-2、6190ZLC1-2、6190ZLC2、6190ZLCA-1、6190ZLCA-2、6190ZLCA2-1、6190ZLCA3-2、C6190Z1C-1、C6190Z1C-1A、C6190Z1C-2B、C6190ZC-1、C6190ZC1-1、C6190ZC1-2、C6190ZC2、C6190ZLC、C6190ZLC-1、C6190ZLC-1A、C6190ZLC-1B、C6190ZLC-1D、C6190ZLC-2C、C6190ZLC-A、C6190ZLCA、C6190ZLCB-1、G6190ZLC、G6190ZLC-1、G6190ZLCA3-2）"      
+          ,"images":[{"img":"6190-1.jpg","desc":""},{"img":"6190-2.jpg","desc":""},{"img":"6190-3.jpg","desc":""}]}
+    ,{"name":"6200","title":"特点：1、六个缸六个喷嘴2、一个缸盖分为两半，中间为喷嘴3、有椭圆形的盖板(6200Z-13、CW6200C-21、CW6200Z-21、CW6200ZC、CW6200ZC-21、CW6200ZC-22、CW6200ZC-33、CW6200ZC-6、CW6200ZC-71、CW6200ZC-74、WHM6200C471-8、WHM6200C520-8、WHM6200C551-9、WHM6200C598-8、WHM6200C762-1、XCW6200ZC、XCW6200ZC-55）"
+        ,"images":[{"img":"6200.jpg","desc":""}]}
+    ,{"name":"6210","title":"6210系列特点：1、六个缸六个喷嘴2、缸体，缸盖形状比较规则3、每个缸的管路上带有仪表","images":[{"img":"6210-1.jpg","desc":""},{"img":"6210-2.jpg","desc":""}]}
+    ,{"name":"6240","title":"6240系列(渔冷)","images":[{"img":"6240.jpg","desc":"6240ZC"}]}
+    ,{"name":"6250","title":"6250系列(渔冷)","images":[{"img":"6250.jpg","desc":"（LB6250ZLC-1、LB6250ZLC-2）以LB6250ZLC-2"}]}
+    ,{"name":"KT19-M","title":"KT19-M康明斯系列（流刺网和延绳钓）","images":[{"img":"KT19-M.jpg","desc":""}]}
+    ,{"name":"NTA855-M","title":"NTA855-M","images":[{"img":"NTA855-M.jpg","desc":""}]}
+    ,{"name":"TC13C21201","title":"TC13C21201南通系列（流刺网和延绳钓）","images":[{"img":"TC13C21201-1.jpg","desc":""},{"img":"TC13C21201-2.jpg","desc":""}]}
+    ,{"name":"TC18C21101","title":"TC18C21101(8缸)","images":[{"img":"TC18C21101.jpg","desc":""}]}
+    ,{"name":"YC4D12L-20","title":"玉柴系列YC4D12L-20","images":[{"img":"YC4D12L-20-1.jpg","desc":""},{"img":"YC4D12L-20-2.jpg","desc":""}]}
+    ,{"name":"YC4D18L-20","title":"YC4D18L-20","images":[{"img":"YC4D18L-20-1.jpg","desc":""},{"img":"YC4D18L-20-2.jpg","desc":""}]}
+    ,{"name":"YC4D24TC-20","title":"YC4D24TC-20","images":[{"img":"YC4D24TC-20.jpg","desc":""}]}
+    ,{"name":"YC4D30C","title":"YC4D30C","images":[{"img":"YC4D30C-1.jpg","desc":""},{"img":"YC4D30C-2.jpg","desc":""}]}
+    ,{"name":"YC4D50C","title":"YC4D50C","images":[{"img":"YC4D50C-1.jpg","desc":""},{"img":"YC4D50C-2.jpg","desc":""}]}
+    ,{"name":"YC6B35Z-C20","title":"YC6B35Z-C20","images":[{"img":"YC6B35Z-C20-1.jpg","desc":""},{"img":"YC6B35Z-C20-2.jpg","desc":""}]}
+    ,{"name":"YC6B70C","title":"YC6B70C","images":[{"img":"YC6B70C.jpg","desc":""}]}
+    ,{"name":"YC6B110C","title":"YC6B110C","images":[{"img":"YC6B110C.jpg","desc":""}]}
+    ,{"name":"YC6B125C","title":"YC6B125C","images":[{"img":"YC6B125C.jpg","desc":""}]}
+    ,{"name":"YC6CD","title":"YC6CD系列（YC6CD350L-C20、YC6CD355C、YC6CD355L-C20、YC6CD375L-C20、YC6CD415L-C20、YC6CD430L-C20、YC6CD450L-C20、YC6CD475L-C20）"
+            ,"images":[{"img":"YC6CD-1.jpg","desc":"以YC6CD475L-C20为例"},{"img":"YC6CD-2.jpg","desc":""}]}
+    ,{"name":"YC6CL340L-C20","title":"YC6CL340L-C20","images":[{"img":"YC6CL340L-C20-1.jpg","desc":""},{"img":"YC6CL340L-C20-2.jpg","desc":""}]}
+    ,{"name":"YC6C","title":"YC6C系列（YC6C300L-C20、YC6C450L-C20）","images":[{"img":"YC6C-1.jpg","desc":"以YC6C300L-C20为例"},{"img":"YC6C-2.jpg","desc":""}]}
+    ,{"name":"YC6M","title":"YC6M系列","images":[{"img":"YC6M-1.jpg","desc":"YC6M120C为例"},{"img":"YC6M-2.jpg","desc":""}]}
+    ,{"name":"YC6TK","title":"YC6TK系列（YC6TK155C、YC6TK185C、YC6TK190C、YC6TK240C）"
+            ,"images":[{"img":"YC6TK-1.jpg","desc":"以YC6TK240C"},{"img":"YC6TK-2.jpg","desc":""}]}
+    ,{"name":"YCD","title":"YCD系列","images":[{"img":"YCD-1.jpg","desc":"YC3D12C-45"},{"img":"YCD-2.jpg","desc":""}
+        ,{"img":"YCD-3.jpg","desc":"(YCD4N12C-12、YCD4N12C-14、YCD4N12C-15、YCD4N12C-16、YCD4N12C-20、YCD4N12C-21、YCD4N12C-24、YCD4N12C-27)以YCD4N12C-24为例"},{"img":"YCD-4.jpg","desc":""}]}
+    ,{"name":"Z8E160C-M3","title":"8缸型主机Z8E160C-M3（已淘汰）","images":[{"img":"Z8E160C-M3-1.jpg","desc":""},{"img":"Z8E160C-M3-2.jpg","desc":""}]}
+    ,{"name":"N8160ZLC2-40","title":"N8160ZLC2-40","images":[{"img":"N8160ZLC2-40-1.jpg","desc":""},{"img":"N8160ZLC2-40-2.jpg","desc":""}]}
+    ,{"name":"8170","title":"8170系列","images":[{"img":"8170-1.jpg","desc":""},{"img":"8170-2.jpg","desc":""}]}
+    ,{"name":"8190","title":"8190系列","images":[{"img":"8190.jpg","desc":""}]}
+    ,{"name":"8200","title":"8200系列","images":[{"img":"8200.jpg","desc":""}]}
 ]

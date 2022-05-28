@@ -42,11 +42,11 @@
             justify-content: left;
             flex-direction: row;
         }
- 
-        .category-swipe {
-            height: 200px;
-            margin-bottom: 0;
+        
+        .content .van-cell{
+            padding: 0;
         }
+  
     </style>
 </head>
 
@@ -73,18 +73,17 @@
         </div>
         <div class="content">
             <div class="sidebar">
-                <van-sidebar v-model="active" @change="onChange" style="width:80px;">
+                <van-sidebar v-model="active" @change="onChange" style="width:80px;height: 500px;overflow: scroll;">
                     <van-sidebar-item v-for="item,index in props.menus" :key="index" :title="item.label" />
                 </van-sidebar>
             </div>
 
-            <div class="list-wrapper">
+            <div class="list-wrapper" style="height: 500px;overflow: scroll;">
                 <div>{{props.selectedEngine.title}}</div>
                 <van-list>
                     <van-cell v-for="item,index in props.selectedEngine.images" :key="index">
-                        <div>
+                        <div style="text-align: left;">
                             {{item.desc}}
-
                         </div>
                         <div>
                             <van-image :src="'./images/'+item.img" fit="contain" />
