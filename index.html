@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>船用主机分类快速检索工具--主页</title>
+    <!-- 引入样式文件 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vant/4.0.0-alpha.3/index.css" />
+    <link rel="stylesheet" href="./css/index.css" />
+    <!-- 引入 Vue 和 Vant 的 JS 文件 -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.34/vue.global.prod.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vant/4.0.0-alpha.3/vant.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js"></script>
+    <script src="./js/twloader.js"></script>
+    <script>
+        //动态加载
+        TW_LoadScriptFromVersion("env.js", ['main.js', 'index.js', './js/http.js'], () => { Start() })
+    </script>
+    <style>
+        body {
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #app {
+            display: none;
+
+        }
+
+        .van-tabbar {
+            width: 100%;
+            max-width: 400px;
+            left: 50%;
+            transform: translate(-50%, 0);
+        }
+
+        .content{
+            display: flex;
+            justify-content: left;
+            flex-direction: row;
+        }
+ 
+        .category-swipe {
+            height: 200px;
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <div>
+            <van-swipe class="category-swipe" :autoplay="5000">
+                <van-swipe-item v-for="item,index in logos" :key="index">
+                    <van-image :src="item.thumb" fit="fill" />
+                </van-swipe-item>
+            </van-swipe>
+        </div>
+        <div>
+            <van-notice-bar left-icon="volume-o" text="此网站内容仅供学习用，如有错误请及时联系改正。" />
+        </div>
+        <div>
+            <van-search
+            v-model="keyEngine"
+            show-action
+            placeholder="请输入搜索主机型号"
+            @search="onSearch"
+            @cancel="onCancel"
+          />
+        </div>
+        <div class="content">
+            <div class="sidebar">
+                <van-sidebar v-model="active" @change="onChange" style="width:80px;">
+                    <van-sidebar-item v-for="item,index in props.menus" :key="index" :title="item.label" />
+                </van-sidebar>
+            </div>
+
+            <div class="list-wrapper">
+                <div>{{props.selectedEngine.title}}</div>
+                <van-list>
+                    <van-cell v-for="item,index in props.selectedEngine.images" :key="index">
+                        <div>
+                            {{item.desc}}
+
+                        </div>
+                        <div>
+                            <van-image :src="'./images/'+item.img" fit="contain" />
+                        </div>
+                    </van-cell>
+                </van-list>
+            </div>
+        </div>
+        <!--  底部栏 -->
+        <div style='display:block;height:100px;'>&nbsp;</div>
+        <div>
+            <van-tabbar v-model="activeBotTag">
+                <van-tabbar v-model="activeBotTag">
+                    <van-tabbar-item icon="./res/home.png" url="./index.html">主页</van-tabbar-item>
+                    <van-tabbar-item icon="./res/apps.png" url="./about.html">支持</van-tabbar-item>
+                </van-tabbar>
+            </van-tabbar>
+        </div>
+    </div>
+</body>
+
+</html>
